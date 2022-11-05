@@ -8,6 +8,10 @@ and visualize said dataset. <br>
 I thought it was silly to ask us to fill it up manually and so i spend an entire day
 setting up `genQuestionnaireDataset.ipynb` so I could have it create a dataset of 17k rows
 <br>Let me be clear, <mark> the dataset is in no way perfect </mark> but it does the job for now.
+- `genQuestionnaireDataset.ipynb`: generates questionnaire dataset using data inside `randomUsers.csv` 
+- `genRandomUser.ipynb`: fetches Random fake users using the API mentioned below and saves it to`randomUsers.csv`  
+- `visualizeDropouts.ipynb`: data visualization attempt
+- `progress bar.ipynb` : self explanatory 😋
 
 ---
 ## Tips
